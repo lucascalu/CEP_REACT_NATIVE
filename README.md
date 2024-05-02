@@ -20,3 +20,10 @@
     npm install axios
 
 </pre>
+
+<PRE>
+  instruções:
+
+  A ATIVIDADE DEVERÁ SER ENTREGUE NO EMAIL :  lucasschiavoncalu1+aqmcsbvtyfen3kkzqt8q@boards.trello.com 
+  ONDE DEVERÁ SER ENVIADO RELATORIO COMPROVANDO QUE SEU APP RODOU NA SUA VM VIA NAVEGADOR E O CEP DE SUA RESIDENCIA AO SER INSERIDO FUNCIONOU COM EXITO
+</PRE>
